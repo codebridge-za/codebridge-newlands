@@ -8,13 +8,8 @@ import SEO from "../components/seo"
 const IndexPage = () => (
   <Layout>
     <SEO title="Home" keywords={[`gatsby`, `application`, `react`]} />
-<<<<<<< HEAD
-    <h1>Higi </h1>
-    <p>Codebridge Newlands site.</p>
-=======
     <h1>Hi people</h1>
     <p>Welcome to your new Gatsby site.</p>
->>>>>>> e811e272e61b00d88b314fa87f5d393eebff7715
     <p>Now go build something great.</p>
     <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
       <Image />
